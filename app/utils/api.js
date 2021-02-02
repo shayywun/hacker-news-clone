@@ -1,0 +1,1 @@
+//for hacker news api
